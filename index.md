@@ -4,7 +4,7 @@
 
 
 - [x] List syntax
-- [] This is complete
+- [ ] This is complete
 - [ ] This item is not complete
 - [ ] Turn on GitHub Pages
 - [ ] Outline my portfolio
